@@ -1,0 +1,103 @@
+.music {
+    font-family: 'Font Awesome 5 Free';
+}
+.musicBox {
+    background-color: black;
+    width: 290px;
+    height: 135px;
+    margin-top: 12px;
+    margin-left: 1232px;
+    border-radius: 20px;
+    position: absolute;
+    z-index: 1;
+    opacity: 0.4;
+}
+
+.musicDotted {
+    width: 278px;
+    height: 126px;
+    margin-top: 14px;
+    margin-left: 1236px;
+    border: 2px dotted white;
+    border-radius: 20px;
+    position: absolute;
+    z-index: 2;
+    opacity: 0.6;
+}
+
+.dotted5 {
+    width: 6px;
+    height: 6px;
+    margin-top: 25px;
+    margin-left: 1342px;
+    border-radius: 3px;
+    position: absolute;
+    background-color: white;
+    opacity: 0.6;
+    z-index: 2;
+}
+
+.dotted6 {
+    width: 6px;
+    height: 6px;
+    margin-top: 25px;
+    margin-left: 1417px;
+    border-radius: 3px;
+    position: absolute;
+    background-color: white;
+    opacity: 0.6;
+    z-index: 2;
+}
+
+.artist {
+    background-color: black;
+    width: 60px;
+    height: 60px;
+    margin-top: 45px;
+    margin-left: 1260px;
+    border-radius: 5%;
+    position: absolute;
+    z-index: 3;
+}
+
+.musicName {
+    position: absolute;
+    z-index: 3;
+    color: white;
+    margin-top: 60px;
+    margin-left: 1340px;
+    font-size: 10px;
+    opacity: 0.6;
+}
+.s1 {
+    font-size: 13px;
+}
+
+.fa-circle-pause {
+    position: absolute;
+    z-index: 3;
+    color: white;
+    margin-top: 105px;
+    margin-left: 1400px;
+    font-size: 20px;
+    opacity: 0.6;
+}
+
+.fa-forward-fast {
+    position: absolute;
+    z-index: 3;
+    color: white;
+    margin-top: 105px;
+    margin-left: 1454px;
+    font-size: 20px;
+    opacity: 0.6;
+}
+.fa-backward-fast {
+    position: absolute;
+    z-index: 3;
+    color: white;
+    margin-top: 105px;
+    margin-left: 1345px;
+    font-size: 20px;
+    opacity: 0.6;
+}

@@ -1,0 +1,77 @@
+.timeBox {
+    background-color: black;
+    width: 280px;
+    height: 200px;
+    margin-top: 12px;
+    margin-left: 12px;
+    opacity: 0.4;
+    border-radius: 10%;
+    position: absolute;
+    z-index: 1;
+}
+
+.D1 {
+    width: 270px;
+    height: 190px;
+    margin-top: 14.5px;
+    margin-left: 14.55px;
+    border: 2px dotted white;
+    border-radius: 10%;
+    position: absolute;
+    z-index: 1;
+}
+
+.dotted1 {
+    width: 6px;
+    height: 6px;
+    margin-top: 23px;
+    margin-left: 115px;
+    border-radius: 3px;
+    position: absolute;
+    background-color: white;
+    opacity: 0.6;
+    z-index: 2;
+}
+
+.dotted2 {
+    width: 6px;
+    height: 6px;
+    margin-top: 23px;
+    margin-left: 190px;
+    border-radius: 3px;
+    position: absolute;
+    background-color: white;
+    opacity: 0.6;
+    z-index:2;
+}
+
+.time {
+    color: white;
+    font-weight: 600px;
+    font-size:65px;
+    position: absolute;
+    margin-top: 37px;
+    margin-left: 45px;
+    z-index: 2;
+}
+
+.timeSeconds {
+    color: white;
+    font-weight: 500px;
+    font-size:26px;
+    position: absolute;
+    margin-top: 77px;
+    margin-left: 210px;
+    z-index: 2;
+}
+
+.date {
+    color: white;
+    font-weight: 500px;
+    font-size:28px;
+    position: absolute;
+    margin-top: 146px;
+    margin-left: 81px;
+    z-index: 2;
+    opacity: 0.6;
+}

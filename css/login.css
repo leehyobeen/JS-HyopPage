@@ -1,0 +1,123 @@
+.login {
+    background-color: black;
+    width: 550px;
+    height: 550px;
+    margin-top: 85px;
+    margin-left: 490px;
+    opacity: 0.7;
+    border-radius: 10%;
+    position: absolute;
+    z-index: 2;
+}
+
+.loginDotted {
+    width: 535px;
+    height: 535px;
+    margin-top: 90px;
+    margin-left: 495px;
+    border: 2px dotted white;
+    border-radius: 10%;
+    position: absolute;
+    z-index: 3;
+    opacity: 0.8;
+}
+.loginD1 {
+    width: 10px;
+    height: 10px;
+    margin-top: 120px;
+    margin-left: 525px;
+    border-radius: 5px;
+    position: absolute;
+    background-color: white;
+    opacity: 0.8;
+    z-index: 2;
+}
+.loginD2 {
+    width: 10px;
+    height: 10px;
+    margin-top: 120px;
+    margin-left: 990px;
+    border-radius: 5px;
+    position: absolute;
+    background-color: white;
+    opacity: 0.8;
+    z-index:2;
+}
+.loginD3 {
+    width: 10px;
+    height: 10px;
+    margin-top: 593px;
+    margin-left: 525px;
+    border-radius: 5px;
+    position: absolute;
+    background-color: white;
+    opacity: 0.8;
+    z-index: 2;
+}
+.loginD4 {
+    width: 10px;
+    height: 10px;
+    margin-top: 593px;
+    margin-left: 990px;
+    border-radius: 5px;
+    position: absolute;
+    background-color: white;
+    opacity: 0.8;
+    z-index:2;
+}
+
+.login-form {
+    position: absolute;
+    z-index: 3;
+}
+
+.userId {
+    display: block;
+    width: 350px;
+    height: 50px;
+    margin-top: 310px;
+    margin-left: 590px;
+    border: none;
+    background: none;
+    outline: none;
+    border-bottom: 2px solid white;
+    color: white;
+    font-size: 23px;
+}
+.password {
+    display: block;
+    width: 350px;
+    height: 50px;
+    margin-top: 10px;
+    margin-left: 590px;
+    border: none;
+    background: none;
+    outline: none;
+    border-bottom: 2px solid white;
+    color: white;
+    font-size: 23px;
+    margin-bottom: 80px;
+}
+
+.sub {
+    display: block;
+    width: 350px;
+    height: 50px;
+    margin-top: 40px;
+    margin-left: 590px;
+    outline: none;
+    border: 2px solid white;
+    color: white;
+    font-size: 20px;
+    background-color: rgba(255, 255, 255, 0.482);
+    border-radius: 10px;
+}
+
+.textLogin {
+    position: absolute;
+    z-index: 3;
+    font-size: 38px;
+    color: white;
+    margin-left: 575px;
+    margin-top: 170px;
+}

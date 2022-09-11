@@ -1,0 +1,147 @@
+.idBox {
+   background-color: black;
+   width: 280px;
+   height: 480px;
+   margin-top: 220px;
+   margin-left: 12px;
+   border-radius: 5%;
+   position: absolute;
+   opacity: 0.55;
+   z-index: 1;
+}
+
+.D2 {
+    width: 270px;
+    height: 469px;
+    margin-top: 223px;
+    margin-left: 15px;
+    border: 2px dotted white;
+    border-radius: 5%;
+    position: absolute;
+    z-index: 2;
+    opacity: 0.6;
+}
+
+.dotted3 {
+    width: 6px;
+    height: 6px;
+    margin-top: 233px;
+    margin-left: 115px;
+    border-radius: 3px;
+    position: absolute;
+    background-color: white;
+    opacity: 0.6;
+    z-index: 2;
+}
+
+.dotted4 {
+    width: 6px;
+    height: 6px;
+    margin-top: 233px;
+    margin-left: 190px;
+    border-radius: 3px;
+    position: absolute;
+    background-color: white;
+    opacity: 0.6;
+    z-index: 2;
+}
+
+.dogBox{
+    width: 130px;
+    height: 130px;
+    margin-top: 280px;
+    margin-left: 80px;
+    border-radius: 50px;
+    position: absolute;
+    background-color: white;
+    z-index: 3;
+    border: 1px solid white;
+}
+
+.idName {
+    color: white;
+    font-size: 18px;
+    position: absolute;
+    z-index: 3;
+    margin-top: 420px;
+    margin-left: 110px;
+    opacity: 0.8;
+}
+
+.fa-envelope {
+    position: absolute;
+    z-index: 4;
+    margin-top: 300px;
+    margin-left: 235px;
+    opacity: 0.8;
+    color: white;
+    opacity: 0.8;
+}
+
+.fa-bars {
+    position: absolute;
+    z-index: 4;
+    margin-top: 348px;
+    margin-left: 236px;
+    opacity: 0.8;
+    color: white;
+    opacity: 0.8;
+}
+
+.fa-bell {
+    position: absolute;
+    z-index: 4;
+    margin-top: 395px;
+    margin-left: 236px;
+    opacity: 0.8;
+    color: white;
+    opacity: 0.8;
+}
+
+.todo-form{
+    position: absolute;
+    z-index: 4;
+    opacity: 0.8;
+    margin-top: 480px;
+    margin-left: 65px;
+    opacity: 0.8;
+}
+
+.todo-form input {
+    border: 0 solid black;
+    border-bottom: 1px solid white;
+    background: none;
+    outline: none;
+    color: white;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.todo-list{
+    position: absolute;
+    z-index: 4;
+    opacity: 0.8;
+    margin-top: 525px;
+    margin-left: 40px;
+    opacity: 0.8;
+    color: white;
+    font-size: 16px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.todo-list li{
+    padding: 3px;
+}
+
+.todo-list button {
+    position: absolute;
+    z-index: 4;
+    color: white;
+    border: none;
+    background: none;
+}    
+
+
+
+
+
+

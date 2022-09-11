@@ -1,0 +1,27 @@
+.searchBar{
+    position: absolute;
+    z-index: 4;
+    opacity: 0.8;
+}
+
+.searchBar input {
+    border: none;
+    border-bottom: 3px solid white;
+    color: white;
+    font-size: 25px;
+    background: none;
+    outline: none;
+    width: 600px;
+    height: 20px;
+    margin-top: 340px;
+    margin-left: 500px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.todo-form input {
+    border: 0 solid black;
+    border-bottom: 1px solid white;
+    background: none;
+    outline: none;
+    color: white;
+}
