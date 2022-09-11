@@ -1,0 +1,38 @@
+
+.weatherBox {
+    background: black;
+    opacity: 1;
+    width: 230px;
+    height: 42px;
+    margin-top: 663px;
+    margin-left: 1300px;
+    position: absolute;
+    z-index: 1;
+    border-radius: 10px;
+    border: none;
+    opacity: 0.6;
+}
+
+.city {
+    color: white;
+    position: absolute;
+    z-index: 3;
+    font-size: 15px;
+    font-style: italic;
+    margin-top: 672px;
+    margin-left: 1315px;
+    opacity: 0.6;
+}
+
+.weatherDotted {
+    width: 220px;
+    height: 32px;
+    margin-top: 666px;
+    margin-left: 1303px;
+    border: 2px dotted white;
+    border-radius: 10px;
+    position: absolute;
+    z-index: 2;
+    opacity: 0.6;
+}
+

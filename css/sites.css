@@ -1,0 +1,197 @@
+.naver {
+    background-color: black;
+    width: 80px;
+    height: 80px;
+    margin-top: 600px;
+    margin-left: 400px;
+    border-radius: 30px;
+    position: absolute;
+    z-index: 1;
+    border: 1px dotted white;
+    opacity: 0.7;
+}
+.naverM {
+    width: 60px;
+    height: 60px;
+    margin-top: 610px;
+    margin-left: 412px;
+    border-radius: 20px;
+    position: absolute;
+    z-index: 2;
+}
+
+.google {
+    background-color: black;
+    width: 80px;
+    height: 80px;
+    margin-top: 600px;
+    margin-left: 540px;
+    border-radius: 30px;
+    position: absolute;
+    z-index: 1;
+    border: 1px dotted white;
+    opacity: 0.7;
+}
+.googleM {
+    width: 60px;
+    height: 60px;
+    margin-top: 610px;
+    margin-left: 552px;
+    border-radius: 20px;
+    position: absolute;
+    z-index: 2;
+}
+
+.nomad {
+    background-color: black;
+    width: 80px;
+    height: 80px;
+    margin-top: 600px;
+    margin-left: 680px;
+    border-radius: 30px;
+    position: absolute;
+    z-index: 1;
+    border: 1px dotted white;
+    opacity: 0.7;
+}
+.nomadM {
+    width: 60px;
+    height: 60px;
+    margin-top: 610px;
+    margin-left: 692px;
+    border-radius: 20px;
+    position: absolute;
+    z-index: 2;
+}
+
+.netflix {
+    background-color: black;
+    width: 80px;
+    height: 80px;
+    margin-top: 600px;
+    margin-left: 820px;
+    border-radius: 30px;
+    position: absolute;
+    z-index: 1;
+    border: 1px dotted white;
+    opacity: 0.7;
+}
+.netflixM {
+    width: 60px;
+    height: 60px;
+    margin-top: 610px;
+    margin-left: 832px;
+    border-radius: 20px;
+    position: absolute;
+    z-index: 2;
+}
+
+.slack {
+    background-color: black;
+    width: 80px;
+    height: 80px;
+    margin-top: 600px;
+    margin-left: 960px;
+    border-radius: 30px;
+    position: absolute;
+    z-index: 1;
+    border: 1px dotted white;
+    opacity: 0.7;
+}
+.slackM {
+    width: 60px;
+    height: 60px;
+    margin-top: 610px;
+    margin-left: 972px;
+    border-radius: 20px;
+    position: absolute;
+    z-index: 2;
+}
+
+.bugs {
+    background-color: black;
+    width: 80px;
+    height: 80px;
+    margin-top: 600px;
+    margin-left: 1100px;
+    border-radius: 30px;
+    position: absolute;
+    z-index: 1;
+    border: 1px dotted white;
+    opacity: 0.7;
+}
+.bugsM {
+    width: 60px;
+    height: 60px;
+    margin-top: 610px;
+    margin-left: 1112px;
+    border-radius: 20px;
+    position: absolute;
+    z-index: 2;
+}
+
+.youtube {
+    background-color: black;
+    width: 80px;
+    height: 80px;
+    margin-top: 500px;
+    margin-left: 400px;
+    border-radius: 30px;
+    position: absolute;
+    z-index: 1;
+    border: 1px dotted white;
+    opacity: 0.7;
+}
+.youtubeM {
+    width: 60px;
+    height: 60px;
+    margin-top: 510px;
+    margin-left: 412px;
+    border-radius: 20px;
+    position: absolute;
+    z-index: 2;
+}
+
+.github {
+    background-color: black;
+    width: 80px;
+    height: 80px;
+    margin-top: 500px;
+    margin-left: 540px;
+    border-radius: 30px;
+    position: absolute;
+    z-index: 1;
+    border: 1px dotted white;
+    opacity: 0.7;
+}
+.githubM {
+    width: 60px;
+    height: 60px;
+    margin-top: 510px;
+    margin-left: 552px;
+    border-radius: 20px;
+    position: absolute;
+    z-index: 2;
+}
+
+.plus {
+    background-color: black;
+    width: 80px;
+    height: 80px;
+    margin-top: 500px;
+    margin-left: 680px;
+    border-radius: 30px;
+    position: absolute;
+    z-index: 1;
+    border: 1px dotted white;
+    opacity: 0.7;
+}
+.plusM{
+    width: 60px;
+    height: 60px;
+    margin-top: 510px;
+    margin-left: 692px;
+    border-radius: 20px;
+    position: absolute;
+    z-index: 2;
+}
